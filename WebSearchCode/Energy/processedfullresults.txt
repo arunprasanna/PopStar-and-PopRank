@@ -1,0 +1,568 @@
+bloomberg.com 3 [1, 20, 121] http://www.bloomberg.com
+energy.gov 3 [2, 8, 290] http://energy.gov
+energyoilandgasasia.com 1 [3] http://energyoilandgasasia.com
+insideenergy.org 1 [4] http://insideenergy.org
+ogj.com 1 [5] http://www.ogj.com
+ihs.com 3 [6, 81, 264] http://www.ihs.com
+bbc.co.uk 1 [7] http://www.bbc.co.uk
+ge-energy.com 4 [9, 41, 575, 595] http://www.ge-energy.com
+oilandgasalert.com 1 [10] http://oilandgasalert.com
+aeogr.com 1 [11] http://aeogr.com
+wsj.com 2 [12, 685] http://online.wsj.com
+usnrg.com 1 [13] http://www.usnrg.com
+lw.com 1 [14] http://www.lw.com
+energyoilandgasaustralia.com 1 [15] http://energyoilandgasaustralia.com
+nalco.com 2 [16, 17] http://www.nalco.com
+oil-price.net 1 [18] http://www.oil-price.net
+crude.com 1 [19] http://www.crude.com
+lincenergy.com 2 [21, 130] http://www.lincenergy.com
+usgs.gov 2 [22, 63] http://energy.usgs.gov
+oil.com 1 [23] http://oil.com
+texasenergygroup.com 1 [24] http://www.texasenergygroup.com
+eia.gov 3 [25, 32, 489] http://www.eia.gov
+energyquest.ca.gov 1 [26] http://www.energyquest.ca.gov
+atkinsglobal.com 1 [27] http://www.atkinsglobal.com
+ft.com 2 [28, 212] http://www.ft.com
+gasoilenergy.com 1 [29] http://gasoilenergy.com
+epa.gov 2 [30, 43] http://www.epa.gov
+energyrecovery.com 2 [31, 430] http://www.energyrecovery.com
+jobmonkeyjobs.com 1 [33] http://www.jobmonkeyjobs.com
+boem.gov 2 [34, 516] http://www.boem.gov
+energyjobline.com 1 [35] http://www.energyjobline.com
+pemandu.gov.my 2 [36, 474] http://etp.pemandu.gov.my
+wikipedia.org 2 [37, 59] http://en.wikipedia.org
+telegraph.co.uk 3 [38, 383, 467] https://jobs.telegraph.co.uk
+dmoz.org 2 [39, 95] http://www.dmoz.org
+yahoo.com 3 [40, 67, 317] http://biz.yahoo.com
+oilprice.com 2 [42, 54] http://oilprice.com
+energylp.com 1 [44] http://www.energylp.com
+ontheissues.org 2 [45, 236] http://www.ontheissues.org
+energymixreport.com 1 [46] http://energymixreport.com
+energy.siemens.com 2 [47, 217] http://www.energy.siemens.com
+seekingalpha.com 2 [48, 100] http://seekingalpha.com
+lewisenergy.com 2 [51, 113] http://www.lewisenergy.com
+tmxmoney.com 1 [52] http://www.tmxmoney.com
+cairo-energy.com 1 [53] https://cairo-energy.com
+oilandgasiq.com 1 [55] http://www.oilandgasiq.com
+edfenergy.com 1 [56] http://www.edfenergy.com
+nbcnews.com 1 [57] http://www.nbcnews.com
+atb.com 1 [58] http://www.atb.com
+rexenergy.com 1 [60] http://www.rexenergy.com
+nalcorenergy.com 1 [61] http://www.nalcorenergy.com
+pennenergy.com 2 [62, 110] http://www.pennenergy.com
+breitlingenergy.com 2 [64, 233] http://www.breitlingenergy.com
+linnenergy.com 1 [65] http://www.linnenergy.com
+energy.ri.gov 1 [66] http://www.energy.ri.gov
+indeed.com 1 [68] http://www.indeed.com
+darvill.clara.net 1 [69] http://www.darvill.clara.net
+progressivege.com 1 [70] http://www.progressivege.com
+cnn.com 2 [71, 440] http://money.cnn.com
+portal.state.pa.us 2 [72, 320] http://www.portal.state.pa.us
+cox.smu.edu 1 [73] http://www.cox.smu.edu
+adzuna.com.au 1 [74] http://www.adzuna.com.au
+newsok.com 2 [75, 158] http://newsok.com
+chevron.com 2 [76, 480] http://www.chevron.com
+321energy.com 1 [77] http://www.321energy.com
+toolingu.com 1 [78] http://www.toolingu.com
+mastersenergyltd.com 1 [79] http://w3.mastersenergyltd.com
+indiatimes.com 2 [80, 141] http://economictimes.indiatimes.com
+blm.gov 2 [82, 85] http://www.blm.gov
+kbic.com 1 [83] http://www.kbic.com
+energyglobal.com 1 [84] http://www.energyglobal.com
+breakingenergy.com 2 [86, 191] http://breakingenergy.com
+oilandgas360.com 2 [87, 225] http://www.oilandgas360.com
+foundationenergy.com 1 [88] http://foundationenergy.com
+cimarex.com 1 [89] https://www.cimarex.com
+igasplc.com 1 [90] http://igasplc.com
+spectraenergy.com 1 [91] http://www.spectraenergy.com
+netl.doe.gov 2 [92, 584] http://www.netl.doe.gov
+euromoneytraining.com 1 [93] http://www.euromoneytraining.com
+scientificamerican.com 1 [94] http://www.scientificamerican.com
+niccolienergy.com 1 [96] http://www.niccolienergy.com
+mexicoenergy2014.com 1 [97] http://www.mexicoenergy2014.com
+schneider-electric.com 1 [98] http://www.schneider-electric.com
+tklaw.com 1 [99] http://www.tklaw.com
+aims-international.net 1 [101] http://aims-international.net
+energykinetics.com 2 [103, 297] http://www.energykinetics.com
+pikespeakenergyllc.com 1 [104] http://pikespeakenergyllc.com
+blogspot.com 5 [105, 303, 330, 374, 561] http://interestingenergyfacts.blogspot.com
+pipelineoilandgas.com 1 [106] http://pipelineoilandgas.com
+mass.gov 2 [107, 196] http://www.mass.gov
+miningoilandgasjobs.com 1 [108] http://www.miningoilandgasjobs.com
+inspectapedia.com 1 [109] http://inspectapedia.com
+agcs.allianz.com 1 [111] http://www.agcs.allianz.com
+associatedenergyservices.com 1 [112] http://www.associatedenergyservices.com
+rigzone.com 2 [114, 235] http://www.rigzone.com
+alliedenergy.com 1 [115] http://alliedenergy.com
+bobvila.com 1 [116] http://www.bobvila.com
+usaenergycompany.com 1 [117] http://www.usaenergycompany.com
+theglobaleducationproject.org 1 [118] http://www.theglobaleducationproject.org
+oilgas.org 1 [119] http://oilgas.org
+energyfromshale.org 2 [120, 282] http://www.energyfromshale.org
+instituteforenergyresearch.org 2 [122, 597] http://data.instituteforenergyresearch.org
+cunninghamenergy.com 1 [123] http://www.cunninghamenergy.com
+consolenergy.com 1 [124] http://www.consolenergy.com
+thestreet.com 2 [125, 507] http://www.thestreet.com
+wtsenergy.com 1 [126] http://www.wtsenergy.com
+dupont.com 1 [127] http://www.dupont.com
+burnanenergyjournal.com 1 [128] http://burnanenergyjournal.com
+talosenergyllc.com 1 [129] http://www.talosenergyllc.com
+energynet.com 1 [131] http://www.energynet.com
+plunkettresearch.com 1 [132] http://www.plunkettresearch.com
+businesswire.com 1 [133] http://www.businesswire.com
+hartenergy.com 2 [134, 230] http://www.hartenergy.com
+ov-energy.com 1 [135] http://ov-energy.com
+cx-energy.com 1 [136] http://cx-energy.com
+pwc.com 2 [137, 393] http://www.pwc.com
+vc.pmi.org 1 [138] http://ogp.vc.pmi.org
+talisman-energy.com 1 [139] http://www.talisman-energy.com
+houstonenergyinc.com 1 [140] http://houstonenergyinc.com
+utah.gov 1 [142] http://gis.utah.gov
+energytrainingresources.com 1 [143] http://www.energytrainingresources.com
+extractionog.com 1 [144] http://extractionog.com
+eplweb.com 1 [145] http://www.eplweb.com
+psienergyltd.com 1 [146] http://www.psienergyltd.com
+kairikienergy.com 1 [147] http://kairikienergy.com
+energy.eu 1 [148] http://www.energy.eu
+reuters.com 4 [149, 179, 259, 382] http://af.reuters.com
+bloombiz.com 1 [150] http://llcglobalenergy.bloombiz.com
+reportlinker.com 1 [151] http://www.reportlinker.com
+oilandgasinternational.com 1 [152] http://www.oilandgasinternational.com
+nairaland.com 1 [153] http://www.nairaland.com
+metroenergy.com 2 [154, 340] http://metroenergy.com
+dixonbros.com 1 [155] http://dixonbros.com
+swanenergyinc.com 2 [156, 221] http://swanenergyinc.com
+energyandcapital.com 3 [157, 171, 609] http://www.energyandcapital.com
+geology.com 2 [159, 615] http://geology.com
+energytomorrow.org 2 [160, 201] http://energytomorrow.org
+duneenergy.com 1 [161] http://www.duneenergy.com
+forbes.com 2 [162, 387] http://www.forbes.com
+etfdb.com 2 [163, 224] http://etfdb.com
+newarkenergy.net 1 [164] http://www.newarkenergy.net
+oilandnaturalgasincolorado.com 1 [165] http://www.oilandnaturalgasincolorado.com
+swala-energy.co.tz 1 [166] http://www.swala-energy.co.tz
+ey.com 2 [167, 397] http://www.ey.com
+laredoenergy.com 1 [168] http://www.laredoenergy.com
+traceyenergy.com 1 [169] http://www.traceyenergy.com
+europa.eu 1 [170] http://ec.europa.eu
+yale.edu 1 [172] http://www.yale.edu
+libertyenergycorp.com 1 [173] http://www.libertyenergycorp.com
+education-portal.com 1 [174] http://education-portal.com
+energyvoice.com 1 [175] https://www.energyvoice.com
+energyalmanac.ca.gov 1 [176] http://www.energyalmanac.ca.gov
+energyinsights.net 1 [177] http://www.energyinsights.net
+shaleenergyint.com 1 [178] http://shaleenergyint.com
+cmegroup.com 2 [180, 334] http://www.cmegroup.com
+zplenergy.com 1 [181] http://zplenergy.com
+whitehouse.gov 1 [182] http://www.whitehouse.gov
+deloitte.com 1 [183] http://www.deloitte.com
+marketwatch.com 2 [184, 664] http://www.marketwatch.com
+csmonitor.com 2 [185, 429] http://www.csmonitor.com
+bayt.com 1 [186] http://www.bayt.com
+energynavigator.com 1 [187] http://www.energynavigator.com
+go4oilgasandenergyjobs.com 1 [188] http://www.go4oilgasandenergyjobs.com
+howstuffworks.com 2 [189, 195] http://science.howstuffworks.com
+duke-energy.com 1 [190] http://www.duke-energy.com
+massenergy.org 1 [192] http://www.massenergy.org
+abetteridea.com 1 [193] http://www.abetteridea.com
+fuelfix.com 2 [194, 394] http://fuelfix.com
+linkedin.com 2 [197, 205] http://www.linkedin.com
+bakkenenergyservice.com 1 [198] http://bakkenenergyservice.com
+brownstoneenergy.com 1 [199] http://brownstoneenergy.com
+capitalenergyadvisors.com 1 [202] http://www.capitalenergyadvisors.com
+suncor.com 1 [203] http://www.suncor.com
+evaluateenergy.com 3 [204, 208, 292] http://www.evaluateenergy.com
+geology.ar.gov 1 [206] http://www.geology.ar.gov
+engineeringtoolbox.com 2 [207, 635] http://www.engineeringtoolbox.com
+jobsenergy.com 1 [209] http://jobsenergy.com
+swiftutors.com 1 [210] http://www.swiftutors.com
+blackbrushenergy.com 1 [211] http://blackbrushenergy.com
+theenergyforum.com 1 [213] http://www.theenergyforum.com
+ksenergysearch.com 2 [214, 506] http://ksenergysearch.com
+oilonline.com 1 [215] http://www.oilonline.com
+petroglyphenergy.com 1 [216] http://www.petroglyphenergy.com
+petro.com 2 [218, 427] http://www.petro.com
+energyme.com 1 [219] http://www.energyme.com
+raw-energy.net 1 [220] http://www.raw-energy.net
+enxsa.com 1 [222] http://enxsa.com
+lelandenergy.com 1 [223] http://www.lelandenergy.com
+maine.gov 1 [226] http://www.maine.gov
+oilgas-events.com 1 [227] http://www.oilgas-events.com
+miningoilgasjobs.com.au 1 [228] http://www.miningoilgasjobs.com.au
+dmme.virginia.gov 2 [229, 651] http://www.dmme.virginia.gov
+uep.com.pk 1 [231] http://uep.com.pk
+bpzenergy.com 1 [232] http://www.bpzenergy.com
+nytimes.com 3 [234, 365, 376] http://topics.nytimes.com
+genie.com 1 [237] http://genie.com
+grandeenergy.com 1 [238] http://grandeenergy.com
+timken.com 1 [239] http://www.timken.com
+oilandenergynews.com 1 [240] http://www.oilandenergynews.com
+oilvoice.com 2 [241, 313] http://www.oilvoice.com
+edinformatics.com 1 [242] http://www.edinformatics.com
+clmenergy.com 1 [243] http://www.clmenergy.com
+careerstructure.com 1 [244] http://www.careerstructure.com
+ehow.com 2 [245, 285] http://www.ehow.com
+energybd.com 1 [246] http://www.energybd.com
+reserve-energy.com 1 [247] http://reserve-energy.com
+freeconstructionmagazines.com 1 [248] http://www.freeconstructionmagazines.com
+cairnenergy.com 1 [249] http://www.cairnenergy.com
+oil-gas-energy-conferences.com 1 [250] http://oil-gas-energy-conferences.com
+bus.lsu.edu 1 [251] http://www.bus.lsu.edu
+heritage.org 1 [252] http://www.heritage.org
+arenaenergy.com 1 [253] http://www.arenaenergy.com
+energean.com 1 [254] http://www.energean.com
+lennox.com 1 [255] http://www.lennox.com
+stores.yahoo.net 1 [256] http://ogjresearch.stores.yahoo.net
+anetce.com 1 [257] http://powershift.anetce.com
+oil-and-energy-club.com 1 [258] http://oil-and-energy-club.com
+coastalenergy.com 1 [260] http://www.coastalenergy.com
+wn.com 9 [261, 359, 509, 534, 598, 633, 667, 674, 687] http://wn.com
+victrex.com 1 [262] http://www.victrex.com
+massresources.org 1 [263] http://www.massresources.org
+sw-oil-gas.com 1 [265] http://sw-oil-gas.com
+gasearch.com 2 [266, 627] http://www.gasearch.com
+api.org 1 [267] http://www.api.org
+coga.org 1 [268] http://www.coga.org
+genieoilgas.com 1 [269] http://genieoilgas.com
+maineenergy.net 1 [270] http://maineenergy.net
+accenture.com 1 [271] http://www.accenture.com
+avalancheenergyllc.com 1 [272] http://avalancheenergyllc.com
+rivieraensley.com 1 [273] http://www.rivieraensley.com
+oilcareers.com 2 [274, 497] http://www.oilcareers.com
+chk.com 2 [275, 412] http://www.chk.com
+third-energy.com 1 [276] http://www.third-energy.com
+peakoil-gas.com 1 [277] http://www.peakoil-gas.com
+heatingoil4less.com 1 [278] https://www.heatingoil4less.com
+intertek.com 1 [279] http://www.intertek.com
+sas.com 1 [280] http://www.sas.com
+smu.edu 1 [281] http://smu.edu
+freeenergynews.com 1 [283] http://www.freeenergynews.com
+carsonenergy.com 1 [284] http://www.carsonenergy.com
+powerscorecard.org 1 [286] http://www.powerscorecard.org
+gpcenergy.com 1 [287] http://gpcenergy.com
+titanenergyinc.com 1 [288] http://titanenergyinc.com
+sabineoil.com 1 [289] http://www.sabineoil.com
+ringenergy.com 1 [291] http://ringenergy.com
+sba.gov 1 [294] http://www.sba.gov
+mt.gov 1 [295] http://commerce.mt.gov
+1stchoiceenergyservices.com 1 [296] http://www.1stchoiceenergyservices.com
+adamenergyforum.org 1 [298] https://www.adamenergyforum.org
+investopedia.com 2 [299, 531] http://www.investopedia.com
+ohioenergypathways.org 1 [300] http://www.ohioenergypathways.org
+oilandgasinvestor.com 2 [301, 487] http://www.oilandgasinvestor.com
+yumaenergyinc.com 1 [302] http://www.yumaenergyinc.com
+juancole.com 1 [304] http://www.juancole.com
+stonybrook.edu 1 [305] http://www.stonybrook.edu
+think-energy.net 1 [306] http://www.think-energy.net
+heincpa.com 1 [307] http://www.heincpa.com
+kgs.ku.edu 2 [308, 572] http://www.kgs.ku.edu
+lsbf.org.uk 1 [309] http://www.lsbf.org.uk
+caribinfo.com 1 [310] http://www.caribinfo.com
+theogm.com 1 [311] http://theogm.com
+lonetreeenergy.com 1 [312] http://www.lonetreeenergy.com
+oerb.com 1 [314] http://www.oerb.com
+pfcenergy.com 1 [315] http://www.pfcenergy.com
+shalegas.energy.gov 2 [316, 318] http://www.shalegas.energy.gov
+encharter.org 1 [319] http://www.encharter.org
+doityourself.com 1 [321] http://www.doityourself.com
+convertfromoiltogas.com 1 [322] http://www.convertfromoiltogas.com
+planetenergyllc.com 1 [323] http://www.planetenergyllc.com
+heatusa.com 1 [324] https://www.heatusa.com
+economywatch.com 1 [325] http://www.economywatch.com
+ogclearinghouse.com 1 [326] http://www.ogclearinghouse.com
+world-newspapers.com 1 [327] http://www.world-newspapers.com
+aer.ca 1 [328] http://aer.ca
+oilcouncil.com 1 [329] http://www.oilcouncil.com
+energyinstitution.org 1 [331] http://www.energyinstitution.org
+millerenergyresources.com 2 [332, 587] http://www.millerenergyresources.com
+ibcenergy.com 1 [333] http://www.ibcenergy.com
+petrostrategies.org 2 [335, 351] http://www.petrostrategies.org
+tradingcharts.com 1 [336] http://futures.tradingcharts.com
+nasdaq.com 2 [337, 528] http://www.nasdaq.com
+geenergyfinancialservices.com 1 [338] http://geenergyfinancialservices.com
+oilandenergyinvestor.com 2 [339, 543] http://oilandenergyinvestor.com
+arsenalenergy.com 1 [341] http://www.arsenalenergy.com
+facebook.com 1 [342] http://www.facebook.com
+cenovus.com 1 [343] http://www.cenovus.com
+onoenergy.com 1 [344] http://www.onoenergy.com
+cglobalins.com 1 [345] http://www.cglobalins.com
+treatyenergy.com 1 [346] http://treatyenergy.com
+iea.org 2 [347, 408] http://www.iea.org
+marcellusdrilling.com 1 [348] http://marcellusdrilling.com
+massenergyoil.com 1 [349] http://massenergyoil.com
+ogel.org 1 [350] http://www.ogel.org
+energy4me.org 1 [352] http://www.energy4me.org
+mit.edu 1 [353] http://mitei.mit.edu
+bwenergylaw.com 1 [354] http://www.bwenergylaw.com
+wtrg.com 2 [355, 481] http://www.wtrg.com
+irvingoil.com 1 [356] http://irvingoil.com
+oilandgas.co.nz 1 [357] http://www.oilandgas.co.nz
+jobs.net 1 [358] http://oil-and-gas.jobs.net
+bankofamerica.com 1 [360] http://corp.bankofamerica.com
+naturalgasintel.com 2 [361, 769] http://www.naturalgasintel.com
+sterlingenergyuk.com 1 [362] http://www.sterlingenergyuk.com
+energyadditives.com 1 [363] http://www.energyadditives.com
+sanjuancollege.edu 1 [364] http://www.sanjuancollege.edu
+worthingtonoilandgas.com 1 [366] http://www.worthingtonoilandgas.com
+foxbusiness.com 1 [367] http://www.foxbusiness.com
+hess.com 1 [368] http://www.hess.com
+irmi.com 1 [369] http://www.irmi.com
+maincareenergy.com 1 [370] http://www.maincareenergy.com
+kosmosenergy.com 2 [371, 463] http://www.kosmosenergy.com
+energyengineering.org 1 [372] http://energyengineering.org
+blackelkenergy.com 1 [373] http://www.blackelkenergy.com
+oogeep.org 1 [375] http://oogeep.org
+mogulenergy.com 1 [377] http://mogulenergy.com
+adventuresinenergy.org 2 [378, 485] http://adventuresinenergy.org
+theenergycollective.com 2 [379, 643] http://theenergycollective.com
+bp.com 1 [380] http://www.bp.com
+houselogic.com 1 [381] http://www.houselogic.com
+themalaysianinsider.com 1 [384] http://www.themalaysianinsider.com
+tevisenergy.com 1 [385] http://www.tevisenergy.com
+frontlinesourcegroup.com 1 [386] http://www.frontlinesourcegroup.com
+alaska.gov 1 [388] http://jobs.alaska.gov
+total.com 1 [389] http://www.total.com
+nexusenergy.com.au 1 [390] http://www.nexusenergy.com.au
+energyimages.com 1 [391] http://www.energyimages.com
+osisoft.com 1 [392] http://www.osisoft.com
+statoil.com 1 [395] http://www.statoil.com
+mcall.com 1 [396] http://articles.mcall.com
+energy-pedia.com 1 [398] http://www.energy-pedia.com
+newsday.com 1 [399] http://www.newsday.com
+energy-facts.org 1 [400] http://energy-facts.org
+supremeenergy.com 1 [401] http://www.supremeenergy.com
+energyanswered.org 1 [402] http://www.energyanswered.org
+energy.alberta.ca 1 [403] http://www.energy.alberta.ca
+hammerzone.com 1 [404] http://www.hammerzone.com
+zmansenergybrain.com 1 [405] http://zmansenergybrain.com
+rmesummit.org 1 [406] http://www.rmesummit.org
+otisenergy.com 1 [407] http://www.otisenergy.com
+ky.gov 1 [409] http://oilandgas.ky.gov
+worldbank.org 1 [410] http://web.worldbank.org
+offshoreenergytoday.com 1 [411] http://www.offshoreenergytoday.com
+homeenergyli.com 1 [413] http://www.homeenergyli.com
+energy.org 1 [414] http://energy.org
+earthworks-jobs.com 2 [415, 454] http://www.earthworks-jobs.com
+molten-group.com 1 [416] http://www.molten-group.com
+citizensenergy.com 2 [417, 583] http://www.citizensenergy.com
+myshipley.com 1 [418] http://myshipley.com
+baronenergy.com 1 [419] http://baronenergy.com
+bournesenergy.com 1 [420] http://www.bournesenergy.com
+oilandgas-investments.com 1 [421] http://oilandgas-investments.com
+findthebest.com 1 [422] http://energy-star-boilers.findthebest.com
+csi-executivesearch.com 1 [423] http://www.csi-executivesearch.com
+caloilgas.com 1 [424] http://www.caloilgas.com
+arabianbusiness.com 1 [425] http://www.arabianbusiness.com
+worldpress.org 1 [426] http://worldpress.org
+vonwentzel.net 1 [428] http://www.vonwentzel.net
+feedburner.com 1 [431] http://feeds.feedburner.com
+adn.com 1 [432] http://www.adn.com
+shpi.net 1 [433] http://www.shpi.net
+greatriverenergy.com 1 [434] http://www.greatriverenergy.com
+physics.uci.edu 1 [435] http://www.physics.uci.edu
+oxfordenergy.org 1 [436] http://www.oxfordenergy.org
+mercatusenergy.com 1 [437] http://www.mercatusenergy.com
+americanenergycoalition.com 1 [438] http://americanenergycoalition.com
+legacyoilandgas.com 1 [439] http://www.legacyoilandgas.com
+morningstar.com 2 [441, 662] http://www.morningstar.com
+thecwcgroup.com 1 [442] http://www.thecwcgroup.com
+csirecruiting.com 1 [443] http://www.csirecruiting.com
+energy-contract.com 1 [444] http://www.energy-contract.com
+hayleysenergy.com 1 [445] http://www.hayleysenergy.com
+glo.texas.gov 1 [446] http://www.glo.texas.gov
+oilsheetlinks.com 1 [447] http://www.oilsheetlinks.com
+offshore-mag.com 1 [448] http://www.offshore-mag.com
+cargill-etm.com 1 [449] http://www.cargill-etm.com
+al-ghurair.com 1 [450] http://www.al-ghurair.com
+americanstandardair.com 1 [451] http://www.americanstandardair.com
+platts.com 1 [452] http://www.platts.com
+resilience.org 1 [453] http://www.resilience.org
+ca.gov 1 [455] http://energyalmanac.ca.gov
+geoart.com 1 [456] http://www.geoart.com
+panasonic.com 1 [457] http://www.panasonic.com
+deltaoilandgas.com 1 [458] http://www.deltaoilandgas.com
+gulfoilandgas.com 2 [459, 616] http://www.gulfoilandgas.com
+nmt.edu 1 [460] http://geoinfo.nmt.edu
+appea.com.au 1 [461] http://www.appea.com.au
+crowleyenergy.com 1 [462] http://www.crowleyenergy.com
+nobleroyalties.com 1 [464] http://www.nobleroyalties.com
+softwareadvice.com 1 [465] http://www.softwareadvice.com
+vermilionenergy.com 1 [466] http://www.vermilionenergy.com
+contango.com 1 [468] http://contango.com
+opensecrets.org 1 [469] http://www.opensecrets.org
+erhc.com 1 [470] http://erhc.com
+pegasusenergy.co.uk 1 [471] http://www.pegasusenergy.co.uk
+oilandgasuk.co.uk 1 [472] http://www.oilandgasuk.co.uk
+ndenergy.org 1 [473] http://ndenergy.org
+duckcreekenergy.com 1 [475] http://duckcreekenergy.com
+todayoilprice.com 1 [476] http://www.todayoilprice.com
+greenworldinvestor.com 1 [477] http://www.greenworldinvestor.com
+solarplaza.com 1 [478] http://www.solarplaza.com
+trib.com 1 [479] http://trib.com
+ch2m.com 1 [482] http://www.ch2m.com
+carrier.com 1 [483] http://www.carrier.com
+centerpointenergy.com 1 [484] http://www.centerpointenergy.com
+energy-pubs.com.au 1 [486] http://www.energy-pubs.com.au
+nrdc.org 2 [488, 604] http://www.nrdc.org
+bmir.com 1 [490] http://iq.bmir.com
+stockmarketwire.com 1 [491] http://www.stockmarketwire.com
+energy-solutions.com 1 [492] http://www.energy-solutions.com
+nyc.gov 1 [493] http://www.nyc.gov
+oilandgasrepublic.com 1 [494] http://www.oilandgasrepublic.com
+eei-inc.com 1 [495] http://www.eei-inc.com
+bonterraenergy.com 1 [496] http://www.bonterraenergy.com
+beg.utexas.edu 1 [498] http://www.beg.utexas.edu
+canadianenergylaw.com 1 [499] http://www.canadianenergylaw.com
+flypittsburgh.com 1 [500] http://www.flypittsburgh.com
+globenewswire.com 2 [502, 607] http://globenewswire.com
+smartbrief.com 2 [503, 654] http://www.smartbrief.com
+tceq.texas.gov 1 [504] http://www.tceq.texas.gov
+team-energy.co.uk 1 [505] http://www.team-energy.co.uk
+madronaenergy.com 1 [508] http://www.madronaenergy.com
+ferc.gov 1 [510] http://www.ferc.gov
+dec.ny.gov 2 [511, 592] http://www.dec.ny.gov
+cwcnog.com 1 [512] http://www.cwcnog.com
+athletenewswire.com 1 [513] http://www.athletenewswire.com
+globaloilwatch.com 1 [514] http://globaloilwatch.com
+ibtimes.com 1 [515] http://www.ibtimes.com
+marketenergy.com 1 [517] http://www.marketenergy.com
+newfuelnow.com 1 [518] http://www.newfuelnow.com
+revisionheat.com 1 [519] http://www.revisionheat.com
+atmosenergy.com 1 [520] http://www.atmosenergy.com
+tripod.com 2 [521, 601] http://vanrcook.tripod.com
+npr.org 1 [522] http://stateimpact.npr.org
+opexinoilandgas.com 1 [523] http://www.opexinoilandgas.com
+etvfutures.com 1 [524] http://etvfutures.com
+rymes.com 1 [525] https://rymes.com
+trigas-oil.com 1 [526] http://www.trigas-oil.com
+emersonprocess.com 1 [527] http://www2.emersonprocess.com
+northernenergy.co.uk 1 [529] http://www.northernenergy.co.uk
+falconoilandgas.com 1 [530] http://falconoilandgas.com
+utexas.edu 1 [532] http://energy.utexas.edu
+about.com 1 [533] http://energy.about.com
+mcdep.com 1 [535] http://www.mcdep.com
+kidzworld.com 1 [536] http://www.kidzworld.com
+global-energy.nl 1 [537] http://www.global-energy.nl
+suburbanpropane.com 1 [538] http://www.suburbanpropane.com
+sprintfuels.com 1 [539] http://www.sprintfuels.com
+trane.com 1 [540] http://www.trane.com
+mecny.com 1 [541] http://mecny.com
+sector1.net 1 [542] http://sector1.net
+worldenergynews.com 1 [544] http://www.worldenergynews.com
+valero.com 1 [545] http://www.valero.com
+solomononline.com 1 [546] http://solomononline.com
+tjogel.org 1 [547] http://tjogel.org
+crmz.com 1 [548] http://www.crmz.com
+ventures-africa.com 1 [549] http://www.ventures-africa.com
+eiu.com 1 [550] http://viewswire.eiu.com
+oilandgastechnology.net 2 [551, 617] http://www.oilandgastechnology.net
+ogm.utah.gov 1 [552] http://oilgas.ogm.utah.gov
+ogfj.com 1 [553] http://www.ogfj.com
+homeperformance.com 1 [554] http://www.homeperformance.com
+clovergs.com 1 [555] http://www.clovergs.com
+thediplomat.com 1 [556] http://thediplomat.com
+classroom-energy.org 2 [557, 645] http://www.classroom-energy.org
+palmergasco.com 1 [558] http://www.palmergasco.com
+viessmann-us.com 1 [559] http://www.viessmann-us.com
+energyguidett.com 1 [560] http://energyguidett.com
+centreforenergy.com 1 [562] http://www.centreforenergy.com
+oxfordprinceton.com 1 [563] http://www.oxfordprinceton.com
+enbridge.com 1 [564] http://www.enbridge.com
+energyintel.com 2 [565, 576] http://www.energyintel.com
+thedeal.com 1 [566] http://www.thedeal.com
+abc27.com 1 [567] http://www.abc27.com
+npc.org 1 [568] http://npc.org
+harriscaprock.com 1 [569] http://www.harriscaprock.com
+oilandgasetfs.com 1 [570] http://www.oilandgasetfs.com
+currentcrudeoilprices.com 1 [571] http://www.currentcrudeoilprices.com
+wallstreetscope.com 2 [573, 636] http://www.wallstreetscope.com
+bakken.com 1 [574] http://bakken.com
+robisonoil.com 1 [577] http://www.robisonoil.com
+zawya.com 1 [578] http://www.zawya.com
+mysanantonio.com 1 [579] http://www.mysanantonio.com
+aztecoil-gas.com 1 [580] http://www.aztecoil-gas.com
+combinedenergyservices.com 1 [581] http://www.combinedenergyservices.com
+turnkeyoil.com 1 [582] http://turnkeyoil.com
+tragar.com 1 [585] http://www.tragar.com
+theenergyreport.com 1 [586] http://www.theenergyreport.com
+subsea.org 1 [588] http://subsea.org
+energy-business-review.com 1 [589] http://www.energy-business-review.com
+superiorenergy.com 1 [590] http://superiorenergy.com
+glacier.co.uk 1 [591] http://www.glacier.co.uk
+oilandgasunconventional.com 1 [593] http://www.oilandgasunconventional.com
+dep.anl.gov 1 [594] http://newton.dep.anl.gov
+coned.com 1 [596] http://www.coned.com
+peak-oil.org 1 [602] http://peak-oil.org
+d-fwmall.com 1 [603] http://www.d-fwmall.com
+careersinoilandgas.com 1 [605] http://www.careersinoilandgas.com
+einnews.com 1 [606] http://oilandgas.einnews.com
+consumerreports.org 1 [608] http://www.consumerreports.org
+upienergylp.com 1 [610] http://www.upienergylp.com
+iogawv.com 1 [611] http://www.iogawv.com
+wyomingpublicmedia.org 1 [612] http://wyomingpublicmedia.org
+jewishvirtuallibrary.org 1 [613] http://www.jewishvirtuallibrary.org
+abc3340.com 1 [614] http://www.abc3340.com
+energy.gov.tt 1 [618] http://www.energy.gov.tt
+nobleenergyinc.com 1 [619] http://www.nobleenergyinc.com
+ruccioil.com 1 [620] http://www.ruccioil.com
+downsizinggovernment.org 1 [621] http://www.downsizinggovernment.org
+beritasatu.com 1 [622] http://thejakartaglobe.beritasatu.com
+energystar.gov 1 [623] http://www.energystar.gov
+albertaoilmagazine.com 2 [624, 681] http://www.albertaoilmagazine.com
+burlesonllp.com 1 [625] http://www.burlesonllp.com
+breitburn.com 1 [626] http://www.breitburn.com
+jobmonkey.com 1 [628] http://www.jobmonkey.com
+wordpress.com 3 [629, 683, 766] https://aveasia.wordpress.com
+petrolucrum.com 1 [630] http://www.petrolucrum.com
+goldseek.com 1 [631] http://news.goldseek.com
+williams.com 1 [632] http://co.williams.com
+chandlersoil.com 1 [634] http://www.chandlersoil.com
+crownoiluk.com 1 [637] http://www.crownoiluk.com
+protege-energy.com 1 [638] http://www.protege-energy.com
+itbusinessnet.com 1 [639] http://itbusinessnet.com
+crescentpointenergy.com 1 [640] http://www.crescentpointenergy.com
+coralhillenergy.com 1 [641] http://coralhillenergy.com
+newenglandoil.com 1 [642] http://www.newenglandoil.com
+emooil.com 1 [644] http://www.emooil.com
+petroleum-power.org 1 [646] http://petroleum-power.org
+osti.gov 2 [647, 682] http://www.osti.gov
+dailyoilbulletin.com 1 [652] http://www.dailyoilbulletin.com
+parstimes.com 1 [653] http://www.parstimes.com
+callthiele.com 1 [655] http://www.callthiele.com
+boemre.gov 1 [656] http://www.boemre.gov
+theoilandgasyear.com 1 [657] http://theoilandgasyear.com
+prlog.org 1 [658] http://www.prlog.org
+mesaaz.gov 1 [659] http://www.mesaaz.gov
+sparkenergy.com 1 [660] http://www.sparkenergy.com
+energylivenews.com 1 [661] http://www.energylivenews.com
+reportingoilandgas.org 1 [663] http://www.reportingoilandgas.org
+timesonline.com 1 [665] http://www.timesonline.com
+oilandgasonline.com 1 [666] http://www.oilandgasonline.com
+benzinga.com 1 [668] http://www.benzinga.com
+4-traders.com 1 [669] http://www.4-traders.com
+stockhouse.com 1 [670] http://www.stockhouse.com
+fnno.com 1 [671] http://www.fnno.com
+ksla.com 1 [672] http://www.ksla.com
+allghananews.com 1 [673] http://www.allghananews.com
+scandoil.com 1 [675] http://www.scandoil.com
+marketsinsider.com 1 [676] http://www.marketsinsider.com
+craigslist.org 1 [677] http://houston.craigslist.org
+euro-petrole.com 1 [678] http://www.euro-petrole.com
+centralheatingpaphos.com 1 [679] http://centralheatingpaphos.com
+vpweb.com 1 [680] http://petrolucre.vpweb.com
+financialcontent.com 1 [684] http://markets.financialcontent.com
+mysmartrend.com 2 [686, 775] http://www.mysmartrend.com
+pbfenergy.com 1 [688] http://investors.pbfenergy.com
+heraldonline.com 1 [689] http://www.heraldonline.com
+nbcconnecticut.com 1 [690] http://www.nbcconnecticut.com
+theafricareport.com 1 [691] http://www.theafricareport.com
+optionmonster.com 1 [692] http://www.optionmonster.com
+marketwired.com 1 [767] http://www.marketwired.com
+mfrtech.com 1 [768] http://www.mfrtech.com
+times.co.zm 1 [770] http://www.times.co.zm
+albanytribune.com 1 [771] http://www.albanytribune.com
+dinarvets.com 2 [772, 773] http://dinarvets.com
+azernews.az 1 [774] http://www.azernews.az
+houstonchronicle.com 1 [776] http://www.houstonchronicle.com
+opalesque.com 1 [777] http://www.opalesque.com
+ap.org 1 [778] http://hosted.ap.org

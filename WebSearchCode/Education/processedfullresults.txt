@@ -1,0 +1,332 @@
+brookes.ac.uk 6 [1, 7, 29, 55, 232, 383] http://architecture.brookes.ac.uk
+oup.com 8 [2, 19, 28, 67, 99, 125, 152, 252] http://global.oup.com
+wikipedia.org 3 [3, 23, 339] http://en.wikipedia.org
+e-architect.co.uk 2 [4, 8] http://www.e-architect.co.uk
+miamioh.edu 2 [5, 6] http://miamioh.edu
+oxfordarchitecture.org 1 [9] http://oxfordarchitecture.org
+ox.ac.uk 5 [10, 24, 52, 376, 402] http://www.ox.ac.uk
+oushop.com 2 [11, 140] http://www.oushop.com
+facebook.com 2 [12, 300] https://www.facebook.com
+curacaowakeskateskischool.com 1 [13] http://curacaowakeskateskischool.com
+wn.com 4 [14, 78, 327, 362] http://wn.com
+visitoxfordandoxfordshire.com 2 [15, 241] http://www.visitoxfordandoxfordshire.com
+conted.ox.ac.uk 2 [16, 51] https://www.conted.ox.ac.uk
+scmp.com 1 [17] http://www.scmp.com
+wadham.ox.ac.uk 2 [18, 136] http://www.wadham.ox.ac.uk
+architecture-colleges.com 1 [20] http://architecture-colleges.com
+matchcollege.com 2 [21, 400] http://www.matchcollege.com
+archinect.com 2 [22, 38] http://archinect.com
+all-souls.ox.ac.uk 1 [25] http://www.all-souls.ox.ac.uk
+magx.com 1 [26] http://www.magx.com
+muohio.edu 4 [27, 31, 34, 60] http://arts.muohio.edu
+tourinaday.com 2 [30, 215] http://www.tourinaday.com
+libguides.com 2 [33, 103] http://ox.libguides.com
+oxforduniversityimages.com 2 [35, 183] http://www.oxforduniversityimages.com
+ebay.com 1 [36] http://www.ebay.com
+hotcourses.com 1 [37] http://www.hotcourses.com
+wikitravel.org 2 [39, 361] http://wikitravel.org
+flickr.com 2 [40, 63] https://www.flickr.com
+archdaily.com 2 [41, 66] http://www.archdaily.com
+studentsreview.com 2 [42, 190] http://www.studentsreview.com
+oxfordreference.com 2 [43, 72] http://www.oxfordreference.com
+universities.com 1 [45] https://www.universities.com
+campaign.ox.ac.uk 1 [46] http://www.campaign.ox.ac.uk
+covnews.com 2 [47, 71] http://www.covnews.com
+oxfordbibliographies.com 2 [48, 319] http://www.oxfordbibliographies.com
+zazzle.com 2 [49, 174] http://www.zazzle.com
+hackcollege.com 1 [53] http://www.hackcollege.com
+profwebsite.com 1 [54] http://profwebsite.com
+oxford.gov.uk 2 [56, 395] http://www.oxford.gov.uk
+youtube.com 1 [57] http://www.youtube.com
+olemiss.edu 1 [58] http://www.olemiss.edu
+ownersmanualdoc.com 1 [59] http://www.ownersmanualdoc.com
+amazon.com 2 [61, 95] http://www.amazon.com
+pinterest.com 2 [62, 121] http://www.pinterest.com
+downloadwallpapers.biz 1 [64] http://www.downloadwallpapers.biz
+archiseek.com 2 [65, 74] http://archiseek.com
+interior-design-colleges.com 1 [68] http://interior-design-colleges.com
+oxfordcityguide.com 2 [69, 265] http://www.oxfordcityguide.com
+wikia.com 2 [70, 375] http://uncyclopedia.wikia.com
+dreamstime.com 2 [73, 116] http://www.dreamstime.com
+worldarchitecturenews.com 2 [75, 108] http://www.worldarchitecturenews.com
+oxforddictionaries.com 2 [76, 86] http://www.oxforddictionaries.com
+photoshelter.com 1 [77] http://quintinlake.photoshelter.com
+oxfordtoday.ox.ac.uk 2 [79, 127] http://www.oxfordtoday.ox.ac.uk
+virtualtourist.com 2 [80, 146] http://www.virtualtourist.com
+cyclopaedia.info 1 [81] http://www.cyclopaedia.info
+victorianweb.org 2 [82, 96] http://www.victorianweb.org
+asiancorrespondent.com 2 [83, 105] http://asiancorrespondent.com
+academia.edu 5 [84, 186, 274, 368, 403] http://oxfordbrookes.academia.edu
+tripadvisor.com 2 [85, 94] http://www.tripadvisor.com
+oxfordbuildingsurveyors.com 1 [87] http://www.oxfordbuildingsurveyors.com
+educationnews.org 2 [88, 315] http://www.educationnews.org
+linkedin.com 7 [89, 328, 630, 792, 801, 802, 803] http://www.linkedin.com
+arct.cam.ac.uk 1 [90] http://www.arct.cam.ac.uk
+sjc.ox.ac.uk 1 [91] https://www.sjc.ox.ac.uk
+cs.ox.ac.uk 1 [92] http://www.cs.ox.ac.uk
+dezeen.com 2 [93, 204] http://www.dezeen.com
+findthebest.co.uk 2 [97, 344] http://university-courses.findthebest.co.uk
+germanypostupdate.com 1 [98] http://germanypostupdate.com
+topuniversities.com 2 [100, 147] http://www.topuniversities.com
+deakin.edu.au 2 [101, 213] http://www.deakin.edu.au
+educaedu.co.uk 2 [102, 221] http://www.educaedu.co.uk
+emory.edu 2 [104, 352] http://oxford.emory.edu
+oxonianreview.org 1 [106] http://www.oxonianreview.org
+thecompleteuniversityguide.co.uk 2 [107, 308] http://www.thecompleteuniversityguide.co.uk
+masterstudies.com 1 [109] http://www.masterstudies.com
+wordpress.com 11 [110, 130, 222, 303, 307, 364, 369, 432, 794, 798, 799] https://oxfordarthist.wordpress.com
+nuffield.ox.ac.uk 1 [111] http://www.nuffield.ox.ac.uk
+blogspot.com 6 [112, 115, 155, 175, 424, 425] http://sruwroxton.blogspot.com
+c-span.org 1 [113] http://www.c-span.org
+deepculturetravel.com 1 [114] http://www.deepculturetravel.com
+paradiseintheworld.com 1 [117] http://paradiseintheworld.com
+distancelearning.uk.com 1 [118] http://www.distancelearning.uk.com
+lib.miamioh.edu 1 [119] http://www.lib.miamioh.edu
+stealmag.com 1 [120] http://stealmag.com
+oxoniensia.org 1 [122] http://oxoniensia.org
+iesabroad.org 2 [123, 343] http://www.iesabroad.org
+ranker.com 1 [124] http://www.ranker.com
+minglebox.com 2 [126, 394] http://www.minglebox.com
+summerfuel.com 1 [128] http://www.summerfuel.com
+usnews.rankingsandreviews.com 2 [129, 167] http://colleges.usnews.rankingsandreviews.com
+oxforduniversityfilm.com 1 [131] http://www.oxforduniversityfilm.com
+topboxdesign.com 2 [132, 138] http://www.topboxdesign.com
+visitcambridge.org 1 [133] http://www.visitcambridge.org
+picturesforwalls.com 1 [134] http://www.picturesforwalls.com
+uscollegesearch.org 2 [135, 230] http://www.uscollegesearch.org
+taaza.com 1 [137] http://study.taaza.com
+files.wordpress.com 2 [139, 143] http://spatialperspectives.files.wordpress.com
+oum.ox.ac.uk 2 [141, 410] http://www.oum.ox.ac.uk
+featurepics.com 2 [142, 170] http://www.featurepics.com
+oxfordpa.org 1 [144] http://www.oxfordpa.org
+fastweb.com 1 [145] http://colleges.fastweb.com
+postgraduatesearch.com 2 [148, 242] http://www.postgraduatesearch.com
+chch.ox.ac.uk 2 [149, 218] http://www.chch.ox.ac.uk
+architecturetoday.co.uk 2 [150, 244] http://www.architecturetoday.co.uk
+greatbuildings.com 2 [151, 321] http://www.greatbuildings.com
+washington.edu 1 [153] http://depts.washington.edu
+theoxford.edu 1 [154] http://www.theoxford.edu
+quintinlake.com 1 [156] http://blog.quintinlake.com
+bodleian.ox.ac.uk 4 [157, 323, 348, 421] http://libguides.bodleian.ox.ac.uk
+travelsignposts.com 1 [158] http://www.travelsignposts.com
+keble.ox.ac.uk 2 [159, 257] http://www.keble.ox.ac.uk
+study.cam.ac.uk 1 [160] http://www.study.cam.ac.uk
+which.co.uk 2 [161, 334] http://university.which.co.uk
+oxfordonline.co.uk 2 [162, 195] http://www.oxfordonline.co.uk
+world-guides.com 1 [163] http://www.world-guides.com
+oxfordscholarship.com 2 [164, 313] http://www.oxfordscholarship.com
+citytowninfo.com 1 [165] http://www.citytowninfo.com
+utrailsoxford.com 1 [166] http://utrailsoxford.com
+rhcloud.com 1 [168] http://fillable-formtax.rhcloud.com
+merton.ox.ac.uk 2 [169, 203] http://www.merton.ox.ac.uk
+tumblr.com 2 [171, 256] http://www.tumblr.com
+hdwallpapers.cat 1 [172] http://hdwallpapers.cat
+ft.com 1 [173] http://www.ft.com
+st-annes.ox.ac.uk 1 [176] http://www.st-annes.ox.ac.uk
+hoa.ox.ac.uk 1 [177] http://www.hoa.ox.ac.uk
+educationindex.co.uk 2 [178, 249] http://www.educationindex.co.uk
+oxfordartonline.com 2 [179, 207] http://www.oxfordartonline.com
+exeter.ox.ac.uk 1 [180] http://www.exeter.ox.ac.uk
+encyclopedia.com 1 [181] http://www.encyclopedia.com
+almostginger.com 1 [182] http://almostginger.com
+4icu.org 2 [184, 198] http://www.4icu.org
+gardenvisit.com 1 [185] http://www.gardenvisit.com
+designersandbooks.com 1 [187] http://www.designersandbooks.com
+engineering.careers360.com 2 [188, 347] http://www.engineering.careers360.com
+scholarship-positions.com 2 [189, 427] http://scholarship-positions.com
+designboom.com 1 [191] http://www.designboom.com
+blogspot.co.uk 1 [192] http://ob1architecture.blogspot.co.uk
+schmap.com 1 [193] http://www.schmap.com
+newadvent.org 1 [194] http://www.newadvent.org
+naymz.com 1 [196] http://www.naymz.com
+waac.vt.edu 1 [197] http://www.waac.vt.edu
+indianpeaches.com 1 [199] http://indianpeaches.com
+capa.org 1 [200] http://capaworld.capa.org
+zaha-hadid.com 1 [201] http://www.zaha-hadid.com
+independent.co.uk 1 [202] http://www.independent.co.uk
+funtouristattractions.com 2 [205, 262] http://www.funtouristattractions.com
+wallpaperhere.com 2 [206, 397] http://www.wallpaperhere.com
+centerforstudyabroad.com 1 [208] http://www.centerforstudyabroad.com
+scribd.com 1 [209] https://www.scribd.com
+theguardian.com 1 [210] http://www.theguardian.com
+inoxford.com 2 [211, 275] http://www.inoxford.com
+bokus.com 1 [212] http://www.bokus.com
+sribalajisolution.com 1 [214] http://www.sribalajisolution.com
+university.museum 1 [216] http://oxford.university.museum
+umass.edu 1 [217] http://www.umass.edu
+smith.edu 1 [219] http://www.smith.edu
+britishcouncil.org 1 [220] http://learnenglishteens.britishcouncil.org
+law.ox.ac.uk 1 [223] http://www.law.ox.ac.uk
+google.com 1 [224] http://books.google.com
+oxfordsummercourses.com 1 [225] http://oxfordsummercourses.com
+londontoolkit.com 1 [226] http://www.londontoolkit.com
+princeton.edu 2 [227, 235] http://www.princeton.edu
+durhamworldheritagesite.com 1 [228] http://www.durhamworldheritagesite.com
+orinst.ox.ac.uk 1 [229] http://www.orinst.ox.ac.uk
+miamialum.org 1 [231] http://www.miamialum.org
+collegeconfidential.com 1 [233] http://talk.collegeconfidential.com
+worldfacts.us 1 [234] http://worldfacts.us
+oxfordpreservation.org.uk 1 [236] http://www.oxfordpreservation.org.uk
+oxfordtourguide.com 1 [237] http://www.oxfordtourguide.com
+kgd-architecture.com 2 [238, 291] http://www.kgd-architecture.com
+campusexplorer.com 1 [239] http://www.campusexplorer.com
+123rf.com 2 [240, 384] http://www.123rf.com
+virginia.edu 1 [243] http://www.virginia.edu
+yale.edu 2 [245, 317] http://yalepress.yale.edu
+collegeboard.org 1 [246] https://bigfuture.collegeboard.org
+georgiaencyclopedia.org 1 [247] http://www.georgiaencyclopedia.org
+aboutbritain.com 1 [248] http://www.aboutbritain.com
+memphis.edu 1 [250] http://www.memphis.edu
+bugbog.com 1 [251] http://www.bugbog.com
+lonelyplanet.com 1 [253] http://www.lonelyplanet.com
+crystalgraphics.com 1 [254] http://www.crystalgraphics.com
+britainexpress.com 2 [255, 411] http://www.britainexpress.com
+adp-architecture.com 1 [258] http://www.adp-architecture.com
+ucsc.edu 1 [259] http://kresge.ucsc.edu
+arch.umd.edu 1 [260] http://www.arch.umd.edu
+heritageopendays.org.uk 1 [261] http://www.heritageopendays.org.uk
+duke.edu 1 [263] http://globaled.duke.edu
+academickids.com 1 [264] http://www.academickids.com
+fineartamerica.com 1 [266] http://fineartamerica.com
+uoregon.edu 1 [267] http://architecture.uoregon.edu
+issuu.com 1 [268] http://issuu.com
+studyin-uk.com 2 [269, 429] http://www.studyin-uk.com
+arch.ox.ac.uk 1 [270] http://www.arch.ox.ac.uk
+cafepress.com 2 [271, 287] http://www.cafepress.com
+fotolibra.com 2 [272, 785] http://www.fotolibra.com
+oxfordtimes.co.uk 2 [273, 784] http://www.oxfordtimes.co.uk
+uwm.edu 1 [276] http://www4.uwm.edu
+uniandi.com 1 [277] http://www.uniandi.com
+redbrick.me 1 [278] http://www.redbrick.me
+studyenglishtoday.net 1 [279] http://www.studyenglishtoday.net
+mccallie.org 1 [280] http://photos.mccallie.org
+oxintstudycentre.com 1 [281] http://www.oxintstudycentre.com
+wikivoyage.org 1 [282] http://en.wikivoyage.org
+oxfordeguide.com 1 [283] http://oxfordeguide.com
+free-4u.com 1 [284] http://www.free-4u.com
+howortharch.com 1 [285] http://www.howortharch.com
+graphicdesignmiami.org 1 [286] http://www.graphicdesignmiami.org
+historicbritain.com 1 [288] http://www.historicbritain.com
+indeed.com 2 [289, 372] http://www.indeed.com
+philaprintshop.com 1 [290] http://www.philaprintshop.com
+gtc.ox.ac.uk 1 [292] http://www.gtc.ox.ac.uk
+poetsandquants.com 1 [293] http://poetsandquants.com
+archiplanet.org 1 [294] http://www.archiplanet.org
+cotswolds.info 1 [295] http://www.cotswolds.info
+top5oxford.com 1 [296] http://www.top5oxford.com
+oxfordislamicstudies.com 1 [297] http://www.oxfordislamicstudies.com
+uchicago.edu 1 [298] http://architecture.uchicago.edu
+bellerbys.com 1 [299] http://www.bellerbys.com
+ifsa-butler.org 2 [301, 789] http://www.ifsa-butler.org
+stateuniversity.com 1 [302] http://www.stateuniversity.com
+interioreducators.co.uk 1 [304] http://interioreducators.co.uk
+jesus.ox.ac.uk 1 [305] http://www.jesus.ox.ac.uk
+academon.com 1 [306] http://www.academon.com
+graphicdesignbasics.com 1 [309] http://www.graphicdesignbasics.com
+c20society.org.uk 1 [310] http://www.c20society.org.uk
+american-school-search.com 2 [311, 345] http://www.american-school-search.com
+photobucket.com 1 [312] http://photobucket.com
+britishstudies.net 1 [314] http://britishstudies.net
+collegesofdistinction.com 1 [316] http://collegesofdistinction.com
+uga.edu 1 [318] http://oxford.uga.edu
+fact-index.com 1 [320] http://www.fact-index.com
+thestudentroom.co.uk 2 [322, 354] http://www.thestudentroom.co.uk
+stanford.edu 1 [324] http://searchworks.stanford.edu
+yelp.co.uk 2 [325, 379] http://www.yelp.co.uk
+slc.edu 1 [326] http://www.slc.edu
+urbandictionary.com 1 [329] http://www.urbandictionary.com
+education-portal.com 1 [330] http://education-portal.com
+m.wikipedia.org 2 [331, 387] http://en.m.wikipedia.org
+britannica.com 1 [332] http://www.britannica.com
+newamericancolleges.org 1 [333] http://www.newamericancolleges.org
+docsity.com 1 [335] http://en.docsity.com
+petersons.com 1 [336] http://www.petersons.com
+bbc.co.uk 1 [337] http://www.bbc.co.uk
+odl.ox.ac.uk 1 [338] http://www.odl.ox.ac.uk
+oxfordjournals.org 2 [340, 436] http://jac.oxfordjournals.org
+meracareerguide.com 1 [341] http://www.meracareerguide.com
+nd.edu 1 [342] http://library.nd.edu
+wikimedia.org 2 [346, 435] http://commons.wikimedia.org
+syr.edu 1 [349] http://neasecs2014.syr.edu
+ebooks.com 1 [350] http://www.ebooks.com
+oii.ox.ac.uk 2 [351, 438] http://webcast.oii.ox.ac.uk
+collegetoolkit.com 1 [353] http://colleges.collegetoolkit.com
+oxford.eu 1 [355] http://oxford.eu
+unofficial-guides.com 1 [356] http://www.unofficial-guides.com
+collegexpress.com 1 [357] http://www.collegexpress.com
+bioch.ox.ac.uk 2 [358, 405] http://www.bioch.ox.ac.uk
+universityworldnews.com 1 [359] http://www.universityworldnews.com
+fletcherwarren.com 1 [360] http://fletcherwarren.com
+oupcanada.com 1 [363] http://www.oupcanada.com
+uts.edu.au 1 [365] http://www.uts.edu.au
+gbsarchitects.co.uk 1 [366] http://gbsarchitects.co.uk
+collegecalc.org 1 [367] http://www.collegecalc.org
+findthebest.com 1 [370] http://colleges.findthebest.com
+skyscraperpage.com 1 [371] http://forum.skyscraperpage.com
+i-o-a.at 1 [373] http://i-o-a.at
+ebay.co.uk 1 [374] http://www.ebay.co.uk
+shutterstock.com 2 [377, 408] http://www.shutterstock.com
+exhibitfiles.org 1 [378] http://www.exhibitfiles.org
+findamasters.com 1 [380] http://www.findamasters.com
+thefreedictionary.com 1 [381] http://encyclopedia2.thefreedictionary.com
+berkeley.edu 1 [382] http://extension.berkeley.edu
+onlineeducation.net 1 [385] http://www.onlineeducation.net
+gradschools.com 1 [386] http://www.gradschools.com
+cappex.com 1 [388] http://www.cappex.com
+edref.com 1 [389] http://www.edref.com
+studyabroaduniversities.com 1 [390] http://www.studyabroaduniversities.com
+oxbridgetours.com 1 [391] http://www.oxbridgetours.com
+oup.com.pk 1 [392] http://www.oup.com.pk
+chem.ox.ac.uk 2 [393, 433] http://www.chem.ox.ac.uk
+gadling.com 1 [396] http://gadling.com
+architectureserved.com 1 [398] http://www.architectureserved.com
+rightmove.co.uk 1 [399] http://www.rightmove.co.uk
+barronstestprep.com 1 [401] http://barronstestprep.com
+oxfordconferencing.com 1 [404] http://oxfordconferencing.com
+oxford.com 1 [406] http://oxford.com
+bsc.edu 1 [407] http://www.bsc.edu
+goabroad.com 1 [409] http://www.goabroad.com
+ukstudy.com 1 [412] http://www.ukstudy.com
+businessinsider.com 1 [413] http://www.businessinsider.com
+thepiratebay.se 1 [414] http://thepiratebay.se
+oxfordshiretouristguide.com 1 [415] http://www.oxfordshiretouristguide.com
+studylink.com 1 [416] http://studylink.com
+crosswordheaven.com 1 [417] http://crosswordheaven.com
+oxforduniversityprints.co.uk 1 [418] http://www.oxforduniversityprints.co.uk
+architecturecourses.org 1 [419] http://www.architecturecourses.org
+picturesofengland.com 1 [420] http://www.picturesofengland.com
+library.emory.edu 1 [422] http://oxford.library.emory.edu
+whatuni.com 1 [423] http://www.whatuni.com
+northwestern.edu 1 [426] http://libguides.northwestern.edu
+lib.utexas.edu 1 [428] http://www.lib.utexas.edu
+tripadvisor.co.uk 1 [430] http://www.tripadvisor.co.uk
+telegraph.co.uk 1 [431] http://www.telegraph.co.uk
+finance.yahoo.com 1 [434] https://ca.finance.yahoo.com
+queens.ox.ac.uk 1 [437] http://www.queens.ox.ac.uk
+oxfordmail.co.uk 1 [439] http://www.oxfordmail.co.uk
+ehow.com 1 [440] http://www.ehow.com
+byu.edu 2 [441, 815] http://corpus.byu.edu
+digger666.com 1 [442] http://digger666.com
+gatech.edu 1 [783] http://oxford.gatech.edu
+arch5.com 1 [786] http://arch5.com
+dbpedia.org 1 [787] http://dbpedia.org
+oxcis.ac.uk 1 [788] http://www.oxcis.ac.uk
+informatiewijzer.be 1 [790] http://www.informatiewijzer.be
+prweb.com 1 [791] http://uk.prweb.com
+walesonline.co.uk 1 [793] http://www.walesonline.co.uk
+studymode.com 1 [795] http://www.studymode.com
+ulitzer.com 1 [796] http://www.ulitzer.com
+newrepublic.com 1 [797] http://www.newrepublic.com
+gotthepostcard.com 1 [800] http://gotthepostcard.com
+bizjournals.com 1 [804] http://www.bizjournals.com
+coastsofbohemia.com 1 [805] http://coastsofbohemia.com
+moreintelligentlife.com 1 [806] http://moreintelligentlife.com
+appshopper.com 2 [807, 808] http://appshopper.com
+realtor.com 1 [809] http://www.realtor.com
+scholarship-network.com 1 [810] http://www.scholarship-network.com
+msn.com 1 [811] http://www.msn.com
+philadelphiaencyclopedia.org 1 [812] http://philadelphiaencyclopedia.org
+thisiscolossal.com 1 [813] http://www.thisiscolossal.com
+newliturgicalmovement.org 1 [814] http://www.newliturgicalmovement.org
+patrick-cannon.com 1 [816] http://www.patrick-cannon.com
+whadzup.nl 1 [817] http://whadzup.nl

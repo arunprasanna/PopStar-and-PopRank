@@ -1,0 +1,291 @@
+ign.com 2 [1, 2] http://www.ign.com
+techradar.com 1 [3] http://www.techradar.com
+yahoo.com 4 [4, 6, 81, 376] https://games.yahoo.com
+loadthegame.com 2 [5, 103] http://www.loadthegame.com
+trustedreviews.com 2 [7, 132] http://www.trustedreviews.com
+gamesradar.com 2 [8, 184] http://www.gamesradar.com
+fool.com 2 [9, 152] http://www.fool.com
+businessweek.com 1 [10] http://www.businessweek.com
+techcrunch.com 2 [11, 150] http://techcrunch.com
+engadget.com 2 [12, 30] http://www.engadget.com
+gizmodo.com 2 [13, 31] http://gizmodo.com
+cnet.com 1 [14] http://www.cnet.com
+pcmag.com 1 [15] http://www.pcmag.com
+joystiq.com 3 [16, 87, 368] http://www.joystiq.com
+gizmag.com 2 [17, 28] http://www.gizmag.com
+youtube.com 2 [18, 23] http://www.youtube.com
+usatoday.com 2 [19, 24] http://www.usatoday.com
+gamerant.com 2 [20, 66] http://gamerant.com
+gamespot.com 2 [21, 35] http://www.gamespot.com
+xboxonevspsfour.com 1 [22] http://www.xboxonevspsfour.com
+cnn.com 2 [25, 177] http://www.cnn.com
+tomsguide.com 2 [26, 41] http://www.tomsguide.com
+forbes.com 2 [27, 40] http://www.forbes.com
+nytimes.com 2 [29, 172] http://www.nytimes.com
+extremetech.com 2 [32, 97] http://www.extremetech.com
+amazon.com 2 [33, 79] http://www.amazon.com
+cheats.co 1 [34] http://www.cheats.co
+pcadvisor.co.uk 2 [36, 161] http://www.pcadvisor.co.uk
+zdnet.com 1 [37] http://www.zdnet.com
+businessinsider.com 2 [38, 101] http://www.businessinsider.com
+ps4playstation4.com 2 [39, 313] http://www.ps4playstation4.com
+kotaku.com 2 [42, 63] http://kotaku.com
+go.com 2 [43, 330] http://abcnews.go.com
+huffingtonpost.com 2 [44, 78] http://www.huffingtonpost.com
+theguardian.com 2 [45, 122] http://www.theguardian.com
+bgr.com 2 [46, 62] http://bgr.com
+ps4vsxboxone.info 1 [47] http://ps4vsxboxone.info
+mojang.com 1 [51] https://mojang.com
+redmondpie.com 2 [52, 139] http://www.redmondpie.com
+gottabemobile.com 2 [53, 113] http://www.gottabemobile.com
+xbox1vsps4.com 1 [54] http://xbox1vsps4.com
+arstechnica.com 2 [55, 114] http://arstechnica.com
+ibtimes.com 2 [56, 128] http://www.ibtimes.com
+t3.com 2 [57, 141] http://www.t3.com
+arcadesushi.com 2 [58, 85] http://arcadesushi.com
+playboxie.com 1 [59] http://playboxie.com
+edge-online.com 2 [60, 73] http://www.edge-online.com
+digitaltrends.com 2 [61, 123] http://www.digitaltrends.com
+bwone.com 1 [64] http://www.bwone.com
+venturebeat.com 2 [65, 126] http://venturebeat.com
+bbc.co.uk 2 [67, 106] http://www.bbc.co.uk
+anandtech.com 2 [68, 70] http://www.anandtech.com
+theinquirer.net 2 [69, 112] http://www.theinquirer.net
+ps4vsxboxone.us 1 [71] http://ps4vsxboxone.us
+stuff.tv 2 [72, 102] http://www.stuff.tv
+inquisitr.com 2 [74, 99] http://www.inquisitr.com
+consumerreports.org 2 [75, 191] http://www.consumerreports.org
+gamestop.com 2 [76, 95] https://www.gamestop.com
+wired.com 1 [77] http://www.wired.com
+computerandvideogames.com 2 [80, 170] http://www.computerandvideogames.com
+inentertainment.co.uk 2 [82, 322] http://www.inentertainment.co.uk
+news.com.au 1 [83] http://www.news.com.au
+mashable.com 2 [84, 96] http://mashable.com
+eurogamer.net 2 [86, 127] http://www.eurogamer.net
+ubergizmo.com 2 [88, 276] http://www.ubergizmo.com
+christianpost.com 2 [89, 98] http://www.christianpost.com
+extreme-mods.com 2 [90, 259] http://www.extreme-mods.com
+readwrite.com 2 [91, 148] http://readwrite.com
+askmen.com 1 [92] http://uk.askmen.com
+theonion.com 1 [93] http://www.theonion.com
+time.com 2 [94, 116] http://time.com
+controllermax.com 1 [100] http://controllermax.com
+neowin.net 2 [104, 173] http://www.neowin.net
+diffen.com 1 [105] http://www.diffen.com
+polygon.com 2 [107, 111] http://www.polygon.com
+heavy.com 2 [108, 134] http://heavy.com
+rbigame.com 1 [109] http://www.rbigame.com
+tomshardware.com 2 [110, 121] http://www.tomshardware.com
+geek.com 2 [115, 142] http://www.geek.com
+microsoft-news.com 2 [117, 230] http://microsoft-news.com
+reddit.com 2 [118, 244] http://www.reddit.com
+videogamer.com 2 [119, 240] http://www.videogamer.com
+thenextweb.com 2 [120, 212] http://thenextweb.com
+n4g.com 2 [124, 181] http://n4g.com
+pcworld.com 2 [125, 236] http://www.pcworld.com
+highsnobiety.com 1 [129] http://www.highsnobiety.com
+rollingstone.com 1 [130] http://www.rollingstone.com
+denofgeek.com 1 [131] http://www.denofgeek.com
+makeuseof.com 2 [133, 147] http://www.makeuseof.com
+vgchartz.com 3 [135, 137, 253] http://www.vgchartz.com
+electronicproducts.com 1 [136] http://www.electronicproducts.com
+wikipedia.org 2 [138, 143] http://en.wikipedia.org
+gameranx.com 2 [140, 375] http://www.gameranx.com
+game-debate.com 1 [144] http://www.game-debate.com
+thrustmaster.com 2 [145, 326] http://www.thrustmaster.com
+latinospost.com 1 [146] http://www.latinospost.com
+gamermodz.com 2 [149, 227] http://www.gamermodz.com
+nbcnews.com 2 [151, 219] http://www.nbcnews.com
+tvpredictions.com 1 [153] http://www.tvpredictions.com
+variety.com 1 [154] http://variety.com
+woozworld.com 1 [155] http://www.woozworld.com
+wordpress.com 3 [156, 278, 318] http://freeps4andxboxone.wordpress.com
+dailyinfographic.com 1 [157] http://dailyinfographic.com
+ps4daily.com 2 [158, 248] http://ps4daily.com
+dealnews.com 1 [159] http://dealnews.com
+laptopmag.com 1 [160] http://blog.laptopmag.com
+whathifi.com 1 [162] http://www.whathifi.com
+cinemablend.com 2 [163, 186] http://www.cinemablend.com
+2k.com 3 [164, 192, 243] http://support.2k.com
+rockstargames.com 1 [165] http://www.rockstargames.com
+christiantoday.com 1 [166] http://www.christiantoday.com
+thetechgame.com 1 [167] http://www.thetechgame.com
+techpowerup.com 1 [168] http://www.techpowerup.com
+xbox720vsps4.com 1 [169] http://www.xbox720vsps4.com
+pocket-lint.com 1 [171] http://www.pocket-lint.com
+thedailybeast.com 1 [174] http://www.thedailybeast.com
+itproportal.com 2 [175, 256] http://www.itproportal.com
+redgamingtech.com 2 [176, 215] http://www.redgamingtech.com
+allthingsd.com 1 [178] http://allthingsd.com
+examiner.com 2 [179, 382] http://www.examiner.com
+huffingtonpost.co.uk 1 [180] http://www.huffingtonpost.co.uk
+reuters.com 2 [182, 317] http://www.reuters.com
+gigaom.com 1 [183] https://gigaom.com
+playstationlifestyle.net 2 [185, 277] http://www.playstationlifestyle.net
+xbox-one-experts.com 1 [187] http://www.xbox-one-experts.com
+gamefly.com 2 [188, 237] http://www.gamefly.com
+emirates247.com 2 [189, 234] http://www.emirates247.com
+gamefront.com 1 [190] http://www.gamefront.com
+dice.com 1 [193] http://news.dice.com
+playstationgang.com 2 [194, 214] http://www.playstationgang.com
+gameinformer.com 2 [195, 224] http://www.gameinformer.com
+latimes.com 1 [196] http://herocomplex.latimes.com
+simplygames.com 1 [197] http://www.simplygames.com
+technabob.com 1 [198] http://technabob.com
+bestbuy.com 1 [199] http://www.bestbuy.com
+hackaday.com 1 [200] http://hackaday.com
+thecontrollershop.com 1 [201] https://thecontrollershop.com
+metro.co.uk 1 [202] http://metro.co.uk
+thesixthaxis.com 2 [203, 294] http://www.thesixthaxis.com
+escapistmagazine.com 2 [204, 254] http://www.escapistmagazine.com
+nowgamer.com 2 [205, 287] http://www.nowgamer.com
+winsource.com 1 [206] http://winsource.com
+versus.com 1 [207] http://versus.com
+mobilemag.com 1 [208] http://www.mobilemag.com
+dailytech.com 1 [209] http://www.dailytech.com
+filehippo.com 1 [210] http://news.filehippo.com
+ubi.com 2 [211, 311] http://thecrew-game.ubi.com
+dailygame.net 2 [213, 216] http://www.dailygame.net
+gamingbolt.com 2 [217, 271] http://gamingbolt.com
+gamingreality.com 2 [218, 270] http://www.gamingreality.com
+sonyps4.com 2 [220, 338] http://sonyps4.com
+craveonline.com 2 [221, 369] http://www.craveonline.com
+breathecast.com 2 [222, 367] http://www.breathecast.com
+geeksaresexy.net 1 [223] http://www.geeksaresexy.net
+justpushstart.com 2 [225, 249] http://www.justpushstart.com
+ghacks.net 1 [226] http://www.ghacks.net
+gamefaqs.com 2 [228, 268] http://www.gamefaqs.com
+2-minute-test.com 1 [229] http://www.2-minute-test.com
+walmart.com 2 [231, 290] http://news.walmart.com
+fansided.com 1 [232] http://fansided.com
+theconsolewars.net 1 [233] http://www.theconsolewars.net
+kwikboymodz.com 1 [235] http://www.kwikboymodz.com
+funnyjunk.com 1 [238] http://www.funnyjunk.com
+mcvuk.com 2 [239, 257] http://www.mcvuk.com
+sonyrumors.net 1 [241] http://www.sonyrumors.net
+consumersearch.com 1 [242] http://www.consumersearch.com
+axeetech.com 1 [245] http://axeetech.com
+digitalspy.com 2 [246, 264] http://www.digitalspy.com
+nrdc.org 1 [247] http://switchboard.nrdc.org
+gametrailers.com 2 [250, 283] http://www.gametrailers.com
+tqcast.com 1 [251] http://www.tqcast.com
+coed.com 1 [252] http://coed.com
+pcper.com 2 [255, 262] http://www.pcper.com
+betanews.com 1 [258] http://betanews.com
+surveymonkey.com 1 [260] http://www.surveymonkey.com
+saiyanisland.com 1 [261] http://www.saiyanisland.com
+dashhacks.com 2 [263, 331] http://www.dashhacks.com
+vg247.com 2 [265, 292] http://www.vg247.com
+in.com 1 [266] http://ibnlive.in.com
+which.co.uk 1 [267] http://blogs.which.co.uk
+cnbc.com 1 [269] http://www.cnbc.com
+giantbomb.com 1 [272] http://www.giantbomb.com
+differencebetween.net 1 [273] http://www.differencebetween.net
+spawnfirst.com 1 [274] http://www.spawnfirst.com
+everyjoe.com 1 [275] http://www.everyjoe.com
+shacknews.com 2 [279, 291] http://www.shacknews.com
+psu.com 1 [280] http://www.psu.com
+afterdawn.com 1 [281] http://www.afterdawn.com
+freeps4.net 1 [282] http://freeps4.net
+latinpost.com 1 [284] http://www.latinpost.com
+dealcatcher.com 1 [285] http://www.dealcatcher.com
+ebay.com 2 [286, 310] http://www.ebay.com
+buzzle.com 1 [288] http://www.buzzle.com
+seekingalpha.com 1 [289] http://seekingalpha.com
+theverge.com 2 [293, 386] http://www.theverge.com
+easports.com 1 [295] http://www.easports.com
+vgleaks.com 1 [296] http://www.vgleaks.com
+geekwire.com 2 [297, 333] http://www.geekwire.com
+punchjump.com 1 [298] http://news.punchjump.com
+themarysue.com 1 [299] http://www.themarysue.com
+segmentnext.com 1 [301] http://segmentnext.com
+microsoftproductreviews.com 1 [302] http://www.microsoftproductreviews.com
+slashgear.com 1 [303] http://www.slashgear.com
+slate.com 1 [304] http://www.slate.com
+idesigntimes.com 1 [305] http://www.idesigntimes.com
+gengame.net 1 [306] http://www.gengame.net
+techdigest.tv 1 [307] http://www.techdigest.tv
+darkhorizons.com 1 [308] http://www.darkhorizons.com
+sonicstadium.org 1 [309] http://board.sonicstadium.org
+techspot.com 1 [312] http://www.techspot.com
+gamechup.com 1 [314] http://www.gamechup.com
+crossmap.com 1 [315] http://www.crossmap.com
+product-reviews.net 1 [316] http://www.product-reviews.net
+ezinearticles.com 1 [319] http://ezinearticles.com
+destructoid.com 2 [320, 562] http://www.destructoid.com
+psnprofiles.com 1 [321] http://psnprofiles.com
+cheatcc.com 1 [323] http://www.cheatcc.com
+gamenguide.com 3 [324, 581, 706] http://www.gamenguide.com
+digitalspy.co.uk 1 [325] http://www.digitalspy.co.uk
+hardcoregamer.com 1 [327] http://www.hardcoregamer.com
+rockpapershotgun.com 1 [328] http://www.rockpapershotgun.com
+play-asia.com 1 [329] http://www.play-asia.com
+softpedia.com 1 [332] http://news.softpedia.com
+playlegit.net 1 [334] http://playlegit.net
+idigitaltimes.com 1 [335] http://www.idigitaltimes.com
+therem.org 1 [336] http://www.therem.org
+videogamesblogger.com 1 [337] http://www.videogamesblogger.com
+wikia.com 1 [339] http://www.wikia.com
+themetapicture.com 1 [340] http://themetapicture.com
+designntrend.com 1 [342] http://www.designntrend.com
+wn.com 2 [351, 579] http://wn.com
+blogspot.com 5 [352, 353, 366, 377, 379] http://xboxnews2013.blogspot.com
+kyarr.net 1 [354] http://www.kyarr.net
+pushsquare.com 2 [355, 363] http://www.pushsquare.com
+gamezone.com 1 [356] http://www.gamezone.com
+metacafe.com 1 [357] http://www.metacafe.com
+fifa14xboxcoins.com 1 [358] http://www.fifa14xboxcoins.com
+lockerdome.com 1 [359] http://lockerdome.com
+about.com 1 [360] http://playstation.about.com
+battlefield.com 2 [361, 384] http://battlelog.battlefield.com
+evilcontrollers.com 1 [362] http://www.evilcontrollers.com
+rocketnews24.com 1 [364] http://en.rocketnews24.com
+play.tm 4 [365, 705, 718, 722] http://www.play.tm
+thewrap.com 1 [370] http://www.thewrap.com
+einsteinmodz.com 1 [371] http://einsteinmodz.com
+itworld.com 1 [372] http://www.itworld.com
+mmdaily.net 1 [373] http://mmdaily.net
+torontosun.com 1 [374] http://www.torontosun.com
+games.com 1 [378] http://blog.games.com
+earthites.com 1 [380] http://www.earthites.com
+gameseek.co.uk 1 [381] http://gameseek.co.uk
+pureoverclock.com 1 [383] http://forums.pureoverclock.com
+mmo-champion.com 1 [385] http://www.mmo-champion.com
+washingtonpost.com 1 [387] http://www.washingtonpost.com
+liveleak.com 1 [388] http://www.liveleak.com
+egmnow.com 1 [389] http://www.egmnow.com
+gaming-age.com 1 [390] http://www.gaming-age.com
+xboxachievements.com 2 [391, 570] http://www.xboxachievements.com
+ps4specs.org 1 [392] http://ps4specs.org
+morbidstix.com 1 [393] http://www.morbidstix.com
+fifasoccerblog.com 1 [394] http://fifasoccerblog.com
+writeclass.com 2 [564, 575] http://writeclass.com
+highdefdigest.com 1 [566] http://www.highdefdigest.com
+hardocp.com 1 [567] http://www.hardocp.com
+thefusejoplin.com 1 [568] http://thefusejoplin.com
+attackofthefanboy.com 2 [573, 703] http://attackofthefanboy.com
+video-games.it 2 [574, 580] http://www.video-games.it
+hardforum.com 2 [578, 711] http://hardforum.com
+technobuffalo.com 1 [584] http://www.technobuffalo.com
+androidorigin.com 1 [591] http://www.androidorigin.com
+worthdownloading.com 1 [592] http://www.worthdownloading.com
+dailymotion.com 1 [697] http://www.dailymotion.com
+trittonaudio.com 1 [698] http://www.trittonaudio.com
+gamersyndrome.com 1 [699] http://gamersyndrome.com
+theepochtimes.com 1 [700] http://www.theepochtimes.com
+mobiletechreview.com 1 [701] http://www.mobiletechreview.com
+365games.co.uk 1 [702] http://www.365games.co.uk
+dualshockers.com 1 [704] http://www.dualshockers.com
+ea.com 1 [707] http://www.ea.com
+gamershell.com 1 [708] http://www.gamershell.com
+facebook.com 1 [709] https://www.facebook.com
+gametactics.com 1 [710] http://www.gametactics.com
+consumerist.com 1 [712] http://consumerist.com
+playstation4.net 1 [713] http://playstation4.net
+valuewalk.com 1 [714] http://www.valuewalk.com
+benzinga.com 1 [715] http://www.benzinga.com
+ps4talk.com 1 [716] http://www.ps4talk.com
+qisahn.com 1 [717] http://www.qisahn.com
+qj.net 1 [719] http://www.qj.net
+wrestlezone.com 1 [720] http://www.wrestlezone.com
+videogame911.com 1 [721] http://www.videogame911.com

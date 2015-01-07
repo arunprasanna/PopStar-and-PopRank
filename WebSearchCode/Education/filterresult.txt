@@ -1,0 +1,17 @@
+oxfordarchitecture.org 9.0 http://oxfordarchitecture.org
+oxfordbuildingsurveyors.com 87.0 http://www.oxfordbuildingsurveyors.com
+distancelearning.uk.com 118.0 http://www.distancelearning.uk.com
+oxforduniversityfilm.com 131.0 http://www.oxforduniversityfilm.com
+utrailsoxford.com 166.0 http://utrailsoxford.com
+almostginger.com 182.0 http://almostginger.com
+indianpeaches.com 199.0 http://indianpeaches.com
+university.museum 216.0 http://oxford.university.museum
+oxfordtourguide.com 237.0 http://www.oxfordtourguide.com
+oxfordeguide.com 283.0 http://oxfordeguide.com
+fletcherwarren.com 360.0 http://fletcherwarren.com
+gbsarchitects.co.uk 366.0 http://gbsarchitects.co.uk
+oxfordconferencing.com 404.0 http://oxfordconferencing.com
+gotthepostcard.com 800.0 http://gotthepostcard.com
+scholarship-network.com 810.0 http://www.scholarship-network.com
+patrick-cannon.com 816.0 http://www.patrick-cannon.com
+whadzup.nl 817.0 http://whadzup.nl
